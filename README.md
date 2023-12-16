@@ -31,4 +31,4 @@ To set up the project on your local machine, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/dog-breeds-cv-project.git
+   git clone https://github.com/mrweirdo163/Dog-Vision.git
