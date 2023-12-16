@@ -22,7 +22,7 @@ The goal of this project is to build a robust computer vision model capable of a
 
 ## Dataset
 
-The dataset used in this project consists of over 10,000 images of dogs, spanning 120 different breeds. The dataset is organized to facilitate model training and evaluation. Due to the size of the dataset, it is not included in this repository. You can download it from [insert link to dataset source].
+The dataset used in this project consists of over 10,000 images of dogs, spanning 120 different breeds. The dataset is organized to facilitate model training and evaluation. Due to the size of the dataset, it is not included in this repository. You can download it from [(https://drive.google.com/file/d/14Jnq6wWEpvhJF3mW54MxJH-JjWSXx2Dd/view?usp=drive_link)].
 
 ## Installation
 
